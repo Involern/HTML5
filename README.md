@@ -1,2 +1,2 @@
 # HTML5
-Repo where I experiment with HTML5
+Repo for websites I make using latest version of HTML (HTML5).
