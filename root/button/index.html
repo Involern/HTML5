@@ -6,7 +6,20 @@
     </head>
     <body>
         <a href="https://www.google.com" target="_blank">
-            <button style="background-color:grey;color:aqua">CLICK</button>
+            <button style="background-color:grey"><span style="color:greenyellow">GO</span><span style="color:red">OG</span><span style="color:yellow">LE</span></button>
         </a>
+        <br>
+        <br>
+        <!--<a href="https://www.bing.com" target="_blank">-->
+            
+            <button onclick="doSomething()" style="background-color:rgb(65, 34, 224); color:aliceblue; border-radius:100px">BING</button>
+
+            <p id="test">Hello</p>
+
+            <script>
+                function doSomething(){
+                    document.getElementById("test").innerHTML = "Goodbye" ;
+                }
+            </script>
     </body>
 </html>
