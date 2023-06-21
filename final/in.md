@@ -1,4 +1,6 @@
 # Final Website in HTML
+This website is for selling animals (FAKE).
+
 # Include the Following:
 - audio
 - button
