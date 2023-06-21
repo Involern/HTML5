@@ -14,6 +14,6 @@
 - tables
 - Text formatting
 - video
-~- example~
+
 # Website Concepts:
 - Animals for sale
